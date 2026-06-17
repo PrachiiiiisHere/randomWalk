@@ -33,10 +33,10 @@ The project is built using a custom `RandomWalk` class that handles the logic of
 
 ## Implementation Details
 
->> Language: Python 3
->> Visualization: Matplotlib
->> Random Number Generation: Python `random` module
->> Programming Paradigm: Object-Oriented Programming (OOP)
+> Language: Python 3
+> Visualization: Matplotlib
+> Random Number Generation: Python `random` module
+> Programming Paradigm: Object-Oriented Programming (OOP)
 
 ## Getting Started
 
